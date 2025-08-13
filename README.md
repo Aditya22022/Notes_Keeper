@@ -3,6 +3,7 @@
 
 A simple notes management application built with React. This project lets you create, view, and delete notes in an intuitive interface, making it easy to keep track of your thoughts and tasks.
 
+## Live Demo link -  [Live Demo](https://w725y6.csb.app/)
 ## Features
 
 - **Add Notes:** Quickly jot down notes and save them.
@@ -51,9 +52,13 @@ A simple notes management application built with React. This project lets you cr
 ## Screenshots
 
 
-<img width="700" height="600" alt="Screenshot 2025-08-13 114707" src="https://github.com/user-attachments/assets/c05f9f29-2203-446f-b262-375e85dada7a" />
 
-<img width="700" height="600" alt="Screenshot 2025-08-13 114735" src="https://github.com/user-attachments/assets/3219c33f-3e98-4960-b9d4-4edda2426a2e" />
+<img width="700" height="600" alt="Screenshot 2025-08-13 115151" src="https://github.com/user-attachments/assets/2db966d2-a3c8-4a90-aeb7-027cea4803db" />
+
+
+
+<img width="700" height="600" alt="Screenshot 2025-08-13 115215" src="https://github.com/user-attachments/assets/97d9131f-14e4-434c-932f-a4ca46222006" />
+
 
 
 
